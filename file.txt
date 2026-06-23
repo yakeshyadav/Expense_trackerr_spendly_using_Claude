@@ -87,4 +87,10 @@ Each subagent should only modify its assigned section in app.py
 
 ########################### Custom Subagent prompt #############
 
+/agents
 
+write the below prompt:
+
+Use this agent to write pytest test cases for Spendly features. Invoke after implementing any feature to generate tests based on the feature spec, not the implementation.
+
+#####################################
